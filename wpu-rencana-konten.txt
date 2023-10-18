@@ -2,6 +2,9 @@ RENCANA KONTEN WPU :
 - Javascript
   * ES6
   * Framework
+   -vue
 - Struktur data dasar
 - PHP
+  - Laravel
 - Node JS
+- Phyton
